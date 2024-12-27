@@ -1,0 +1,7 @@
+Flask
+transformers
+torch
+sentencepiece
+gunicorn
+pyngrok
+ngrok
